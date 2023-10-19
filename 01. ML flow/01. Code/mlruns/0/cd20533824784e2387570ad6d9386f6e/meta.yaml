@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/00_Learning/01.%20Courses/06.%20ML%20lifecycle/01.%20ML%20flow/01.%20Code/mlruns/0/cd20533824784e2387570ad6d9386f6e/artifacts
+end_time: 1697670930409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd20533824784e2387570ad6d9386f6e
+run_name: indecisive-deer-550
+run_uuid: cd20533824784e2387570ad6d9386f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697670925542
+status: 3
+tags: []
+user_id: dev3w

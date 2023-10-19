@@ -1,0 +1,40 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.7.1
+model_uuid: 919e2995c0a34805841f6972c4b61718
+run_id: cd20533824784e2387570ad6d9386f6e
+signature:
+  inputs: '[{"type": "string", "name": "host_response_time"}, {"type": "string", "name":
+    "host_response_rate"}, {"type": "string", "name": "host_acceptance_rate"}, {"type":
+    "string", "name": "host_is_superhost"}, {"type": "string", "name": "host_verifications"},
+    {"type": "string", "name": "host_has_profile_pic"}, {"type": "string", "name":
+    "host_identity_verified"}, {"type": "string", "name": "property_type"}, {"type":
+    "string", "name": "room_type"}, {"type": "long", "name": "accommodates"}, {"type":
+    "string", "name": "bathrooms_text"}, {"type": "double", "name": "bedrooms"}, {"type":
+    "double", "name": "beds"}, {"type": "string", "name": "amenities"}, {"type": "long",
+    "name": "number_of_reviews_ltm"}, {"type": "long", "name": "number_of_reviews_l30d"},
+    {"type": "double", "name": "review_scores_rating"}, {"type": "double", "name":
+    "review_scores_accuracy"}, {"type": "double", "name": "review_scores_cleanliness"},
+    {"type": "double", "name": "review_scores_checkin"}, {"type": "double", "name":
+    "review_scores_communication"}, {"type": "double", "name": "review_scores_location"},
+    {"type": "double", "name": "review_scores_value"}, {"type": "string", "name":
+    "instant_bookable"}, {"type": "long", "name": "calculated_host_listings_count"},
+    {"type": "long", "name": "calculated_host_listings_count_entire_homes"}, {"type":
+    "long", "name": "calculated_host_listings_count_private_rooms"}, {"type": "long",
+    "name": "calculated_host_listings_count_shared_rooms"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-10-18 23:15:25.664383'

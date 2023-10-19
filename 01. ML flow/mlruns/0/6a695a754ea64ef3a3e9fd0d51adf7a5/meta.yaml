@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/00_Learning/01.%20Courses/06.%20ML%20lifecycle/01.%20ML%20flow/mlruns/0/6a695a754ea64ef3a3e9fd0d51adf7a5/artifacts
+end_time: 1697670754362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a695a754ea64ef3a3e9fd0d51adf7a5
+run_name: youthful-snake-419
+run_uuid: 6a695a754ea64ef3a3e9fd0d51adf7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697670751113
+status: 3
+tags: []
+user_id: dev3w

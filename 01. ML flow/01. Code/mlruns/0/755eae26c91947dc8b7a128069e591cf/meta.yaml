@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/00_Learning/01.%20Courses/06.%20ML%20lifecycle/01.%20ML%20flow/01.%20Code/mlruns/0/755eae26c91947dc8b7a128069e591cf/artifacts
+end_time: 1697671178009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 755eae26c91947dc8b7a128069e591cf
+run_name: sincere-dove-696
+run_uuid: 755eae26c91947dc8b7a128069e591cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697671175045
+status: 3
+tags: []
+user_id: dev3w

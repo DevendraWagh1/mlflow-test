@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/00_Learning/01.%20Courses/06.%20ML%20lifecycle/01.%20ML%20flow/mlruns/0/20eb8856b444457b9fa42a9aad28ca81/artifacts
+end_time: 1697669628678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20eb8856b444457b9fa42a9aad28ca81
+run_name: resilient-calf-991
+run_uuid: 20eb8856b444457b9fa42a9aad28ca81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697669625901
+status: 3
+tags: []
+user_id: dev3w
